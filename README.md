@@ -1,6 +1,6 @@
 # Species and local contribution to beta diversity: Baseline conditions of Ubatumirim Bay fish guilds
 
-This is a repository of the data analysis codes of the developed work, aiming better reproducibility.
+This is a repository with the data analysis codes of the developed work, aiming better reproducibility.
 
 ## Summary
 
